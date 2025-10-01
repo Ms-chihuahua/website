@@ -1,5 +1,6 @@
 {
-  "name": "qom-website",
+  // wrangler.json
+  "name": "qom-network-website",
   "compatibility_date": "2025-08-29",
   "assets": {
     "directory": "./public"
